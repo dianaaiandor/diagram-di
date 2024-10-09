@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15" version="24.7.17">
   <diagram name="Page-1" id="TaI290nxYZMiwjXGb0RB">
-    <mxGraphModel dx="954" dy="1474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2123" dy="1379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,12 +33,12 @@
         <mxCell id="YObOD3WKvlDWgrV_L_7Z-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#1BA1E2;strokeWidth=10;endArrow=none;endFill=0;curved=1;" edge="1" parent="1" source="YObOD3WKvlDWgrV_L_7Z-1" target="YObOD3WKvlDWgrV_L_7Z-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YObOD3WKvlDWgrV_L_7Z-34" value="&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; line-height: normal; font-family: Arial; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgb(38, 38, 38);&quot;&gt;ресурсоцінні відходи&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YObOD3WKvlDWgrV_L_7Z-31">
+        <mxCell id="YObOD3WKvlDWgrV_L_7Z-34" value="&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; line-height: normal; font-family: Arial; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgb(38, 38, 38);&quot;&gt;роздільно зібрані, ресурсоцінні відходи&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YObOD3WKvlDWgrV_L_7Z-31">
           <mxGeometry x="0.0244" y="-1" relative="1" as="geometry">
             <mxPoint x="11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YObOD3WKvlDWgrV_L_7Z-1" value="Всі побутові відходи" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+        <mxCell id="YObOD3WKvlDWgrV_L_7Z-1" value="збирання побутові відходи" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
           <mxGeometry x="40" y="210" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YObOD3WKvlDWgrV_L_7Z-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=1.008;entryY=0.607;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3.5;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;exitX=1;exitY=0.25;exitDx=0;exitDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="YObOD3WKvlDWgrV_L_7Z-6" target="YObOD3WKvlDWgrV_L_7Z-39">
@@ -86,7 +86,7 @@
         <mxCell id="YObOD3WKvlDWgrV_L_7Z-37" value="Заводи з рециклінгу" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="405" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YObOD3WKvlDWgrV_L_7Z-39" value="Спалювання (цементний завод або сміттєспалювальний)" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="YObOD3WKvlDWgrV_L_7Z-39" value="Спалювання (цементний завод або отримання енергії)" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="710" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YObOD3WKvlDWgrV_L_7Z-40" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;curved=1;strokeWidth=2.5;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;startArrow=none;startFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" target="YObOD3WKvlDWgrV_L_7Z-39">
@@ -208,6 +208,9 @@
               <mxPoint x="680" y="260" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YObOD3WKvlDWgrV_L_7Z-77" value="Утворення" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="215" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
