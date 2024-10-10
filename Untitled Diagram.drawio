@@ -18,11 +18,13 @@
             <mxPoint y="-55" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YObOD3WKvlDWgrV_L_7Z-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4.5;fillColor=#f9f7ed;strokeColor=#FFF2CC;dashed=1;dashPattern=1 1;" edge="1" parent="1" target="YObOD3WKvlDWgrV_L_7Z-56">
+        <mxCell id="YObOD3WKvlDWgrV_L_7Z-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4.5;fillColor=#f9f7ed;strokeColor=#FFF2CC;dashed=1;dashPattern=1 1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YObOD3WKvlDWgrV_L_7Z-45" target="YObOD3WKvlDWgrV_L_7Z-56">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="340" as="sourcePoint" />
+            <mxPoint x="679.5" y="340" as="sourcePoint" />
+            <mxPoint x="679.5" y="570" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="670" y="340" />
+              <mxPoint x="655" y="490" />
+              <mxPoint x="655" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -32,8 +34,8 @@
             <mxPoint x="420" y="169" as="targetPoint" />
             <Array as="points">
               <mxPoint x="340" y="241" />
-              <mxPoint x="340" y="239" />
-              <mxPoint x="380" y="239" />
+              <mxPoint x="340" y="240" />
+              <mxPoint x="380" y="240" />
               <mxPoint x="380" y="169" />
             </Array>
           </mxGeometry>
@@ -61,21 +63,20 @@
         <mxCell id="YObOD3WKvlDWgrV_L_7Z-1" value="збирання/ роздільне збирання побутових відходів, технологічна схема 2&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
           <mxGeometry x="160" y="230" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YObOD3WKvlDWgrV_L_7Z-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3.5;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;exitX=0.982;exitY=0.653;exitDx=0;exitDy=0;endArrow=block;endFill=1;exitPerimeter=0;endSize=0;" edge="1" parent="1" source="YObOD3WKvlDWgrV_L_7Z-6" target="YObOD3WKvlDWgrV_L_7Z-39">
+        <mxCell id="YObOD3WKvlDWgrV_L_7Z-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3.5;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;exitX=0.982;exitY=0.653;exitDx=0;exitDy=0;endArrow=block;endFill=1;exitPerimeter=0;endSize=0;" edge="1" parent="1" source="YObOD3WKvlDWgrV_L_7Z-6" target="YObOD3WKvlDWgrV_L_7Z-39">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="950" y="260" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="610" y="369" />
-              <mxPoint x="610" y="450" />
-              <mxPoint x="1000" y="450" />
-              <mxPoint x="1000" y="350" />
-              <mxPoint x="890" y="350" />
+              <mxPoint x="640" y="369" />
+              <mxPoint x="640" y="470" />
+              <mxPoint x="1000" y="470" />
+              <mxPoint x="1000" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YObOD3WKvlDWgrV_L_7Z-67" value="SRF/RDF" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="YObOD3WKvlDWgrV_L_7Z-54">
           <mxGeometry x="-0.5643" y="-15" relative="1" as="geometry">
-            <mxPoint x="90" y="-25" as="offset" />
+            <mxPoint x="101" y="13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YObOD3WKvlDWgrV_L_7Z-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curved=1;fillColor=#60a917;strokeColor=#2D7600;endArrow=block;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YObOD3WKvlDWgrV_L_7Z-8" target="YObOD3WKvlDWgrV_L_7Z-37">
@@ -93,10 +94,14 @@
             <mxPoint x="540" y="250" as="sourcePoint" />
             <mxPoint x="699" y="100" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="540" y="260" />
-              <mxPoint x="720" y="260" />
-              <mxPoint x="720" y="210" />
+              <mxPoint x="720" y="259" />
+              <mxPoint x="720" y="203" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41DSZIVwjrXOuzU7WRzZ-4" value="&lt;span style=&quot;caret-color: rgb(38, 38, 38); color: rgb(38, 38, 38);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;ресурсоцінні відходи&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="YObOD3WKvlDWgrV_L_7Z-38">
+          <mxGeometry x="-0.1771" y="5" relative="1" as="geometry">
+            <mxPoint x="68" y="-61" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YObOD3WKvlDWgrV_L_7Z-30" value="сортування (папір, пластмаси, метал, скло)" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
@@ -105,20 +110,19 @@
         <mxCell id="YObOD3WKvlDWgrV_L_7Z-37" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Заводи з рециклінгу (склозаводи, картонно-паперові фабрики, виробники пластикових гранул...)&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="830" y="150" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YObOD3WKvlDWgrV_L_7Z-40" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;curved=1;strokeWidth=2.5;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;startArrow=none;startFill=0;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.453;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;endSize=0;" edge="1" parent="1" target="YObOD3WKvlDWgrV_L_7Z-39">
+        <mxCell id="YObOD3WKvlDWgrV_L_7Z-40" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;curved=1;strokeWidth=2.5;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;startArrow=none;startFill=0;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endSize=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="YObOD3WKvlDWgrV_L_7Z-39">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="540" y="262.9999999999999" as="sourcePoint" />
-            <mxPoint x="830" y="308" as="targetPoint" />
+            <mxPoint x="827" y="290" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="780" y="263" />
-              <mxPoint x="780" y="360" />
-              <mxPoint x="884" y="360" />
+              <mxPoint x="720" y="263" />
+              <mxPoint x="720" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YObOD3WKvlDWgrV_L_7Z-68" value="SRF/RDF" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="YObOD3WKvlDWgrV_L_7Z-40">
           <mxGeometry x="0.25" relative="1" as="geometry">
-            <mxPoint x="10" y="-11" as="offset" />
+            <mxPoint x="40" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YObOD3WKvlDWgrV_L_7Z-41" value="Полігон" style="whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
@@ -134,7 +138,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YObOD3WKvlDWgrV_L_7Z-45" value="Стабілізація" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="YObOD3WKvlDWgrV_L_7Z-45" value="стабілізація" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="610" y="290" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YObOD3WKvlDWgrV_L_7Z-50" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;curved=1;strokeWidth=18;endArrow=none;endFill=0;fillColor=#a0522d;strokeColor=#6D1F00;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YObOD3WKvlDWgrV_L_7Z-6" target="YObOD3WKvlDWgrV_L_7Z-45">
@@ -149,22 +153,22 @@
         </mxCell>
         <mxCell id="YObOD3WKvlDWgrV_L_7Z-65" value="&lt;span style=&quot;white-space: normal; caret-color: rgb(51, 51, 51); text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot; face=&quot;Helvetica&quot;&gt;біо складова&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#CCCCCC;" vertex="1" connectable="0" parent="YObOD3WKvlDWgrV_L_7Z-50">
           <mxGeometry x="0.1211" y="3" relative="1" as="geometry">
-            <mxPoint x="-7" y="-2" as="offset" />
+            <mxPoint x="-2" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YObOD3WKvlDWgrV_L_7Z-51" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=13.5;fillColor=#647687;strokeColor=#314354;endArrow=block;endFill=1;endSize=1;" edge="1" parent="1" source="YObOD3WKvlDWgrV_L_7Z-6" target="YObOD3WKvlDWgrV_L_7Z-41">
+        <mxCell id="YObOD3WKvlDWgrV_L_7Z-51" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=13.5;fillColor=#647687;strokeColor=#314354;endArrow=block;endFill=1;endSize=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="YObOD3WKvlDWgrV_L_7Z-6" target="YObOD3WKvlDWgrV_L_7Z-41">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="540" y="241" as="sourcePoint" />
             <mxPoint x="860" y="206" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="660" y="360" />
-              <mxPoint x="660" y="400" />
+              <mxPoint x="710" y="360" />
+              <mxPoint x="710" y="415" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YObOD3WKvlDWgrV_L_7Z-64" value="залишки від сортування&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#FFE599;" vertex="1" connectable="0" parent="YObOD3WKvlDWgrV_L_7Z-51">
           <mxGeometry x="-0.1973" y="-1" relative="1" as="geometry">
-            <mxPoint x="91" y="24" as="offset" />
+            <mxPoint x="-62" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YObOD3WKvlDWgrV_L_7Z-52" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;curved=1;fillColor=#1ba1e2;strokeColor=#1BA1E2;endArrow=block;endFill=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YObOD3WKvlDWgrV_L_7Z-6" target="YObOD3WKvlDWgrV_L_7Z-37">
@@ -172,38 +176,41 @@
             <mxPoint x="540" y="230" as="sourcePoint" />
             <mxPoint x="1030" y="190" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="580" y="375" />
-              <mxPoint x="580" y="470" />
-              <mxPoint x="1070" y="470" />
-              <mxPoint x="1070" y="180" />
-              <mxPoint x="1000" y="180" />
-              <mxPoint x="1000" y="190" />
+              <mxPoint x="630" y="375" />
+              <mxPoint x="630" y="500" />
+              <mxPoint x="1070" y="500" />
+              <mxPoint x="1070" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="41DSZIVwjrXOuzU7WRzZ-6" value="&lt;span style=&quot;caret-color: rgb(38, 38, 38); color: rgb(38, 38, 38); font-family: Arial; background-color: rgb(251, 251, 251);&quot;&gt;ресурсоцінні відходи&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YObOD3WKvlDWgrV_L_7Z-52">
+          <mxGeometry x="-0.3401" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YObOD3WKvlDWgrV_L_7Z-56" value="викиди, скиди стічних вод" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="620" y="570" width="120" height="80" as="geometry" />
+          <mxGeometry x="595" y="540" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YObOD3WKvlDWgrV_L_7Z-69" value="Рециклінг 13,51%" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="700" width="60" height="30" as="geometry" />
+          <mxGeometry x="220" y="650" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YObOD3WKvlDWgrV_L_7Z-71" value="Відновлення енергії 13,0%" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="730" width="100" height="30" as="geometry" />
+          <mxGeometry x="440" y="650" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YObOD3WKvlDWgrV_L_7Z-72" value="Видалення 34,3%" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="740" width="100" height="30" as="geometry" />
+          <mxGeometry x="540" y="650" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YObOD3WKvlDWgrV_L_7Z-73" value="Компостоподібний продукт 29,38%" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="720" width="120" height="30" as="geometry" />
+          <mxGeometry x="300" y="650" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YObOD3WKvlDWgrV_L_7Z-74" value="Втрати 9,79%" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="690" width="60" height="30" as="geometry" />
+          <mxGeometry x="150" y="650" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="durKq_DNV5YjQT-T86ld-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=46;" edge="1" parent="1" source="YObOD3WKvlDWgrV_L_7Z-77" target="YObOD3WKvlDWgrV_L_7Z-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YObOD3WKvlDWgrV_L_7Z-77" value="Утворення побутових відходів" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="235" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="230" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="durKq_DNV5YjQT-T86ld-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;strokeWidth=36;endArrow=none;endFill=0;endSize=13;fontColor=#7a7a7a;fillColor=#647687;strokeColor=#314354;exitX=0.006;exitY=0.441;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YObOD3WKvlDWgrV_L_7Z-1" target="YObOD3WKvlDWgrV_L_7Z-6">
           <mxGeometry relative="1" as="geometry">
@@ -228,13 +235,18 @@
             <mxPoint x="530" y="215" as="sourcePoint" />
             <mxPoint x="830" y="395" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="770" y="265" />
-              <mxPoint x="770" y="385" />
+              <mxPoint x="730" y="265" />
+              <mxPoint x="730" y="385" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="41DSZIVwjrXOuzU7WRzZ-5" value="&lt;span style=&quot;caret-color: rgb(255, 229, 153);&quot;&gt;залишки від&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgb(255, 229, 153);&quot;&gt;&amp;nbsp;сортування&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#000000;" vertex="1" connectable="0" parent="durKq_DNV5YjQT-T86ld-10">
+          <mxGeometry x="0.3024" y="-11" relative="1" as="geometry">
+            <mxPoint x="45" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YObOD3WKvlDWgrV_L_7Z-39" value="Спалювання (цементний завод або отримання енергії)" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="830" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="830" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="41DSZIVwjrXOuzU7WRzZ-1" value="Пункти роздільного збирання" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="130" width="120" height="60" as="geometry" />
